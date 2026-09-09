@@ -81,4 +81,4 @@ jupyter notebook
 **Vídeo Demonstrativo**
 *(Adicione aqui um GIF ou o link do YouTube/Loom demonstrando você navegando pelo notebook, executando os gráficos e explicando rapidamente os insights).*
 
-> [▶️ Clique aqui para assistir à demonstração do projeto](Em breve)
+> ▶️ Clique aqui para assistir à demonstração do projeto (Em breve)
